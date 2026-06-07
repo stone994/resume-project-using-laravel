@@ -14,7 +14,7 @@
                 <div class="col-lg-7 text-white">
                     
                     <h2 class="h4 fw-semibold mb-4 text-light opacity-90">
-                        I'm an Aspiring <span class="text-success">Laravel Developer</span>
+                        I'm an Aspiring <span class="text-success">Laravel </span>
                     </h2>
                     
                     <div class="opacity-75 pe-lg-4 text-justify">
